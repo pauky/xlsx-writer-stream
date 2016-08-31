@@ -19,7 +19,7 @@ var writer = new XLSXWriterStream({
 
 // Optional: Adjust column widths
 writer.defineColumns([
-    { width: 20 }, // width is in 'characters'
+    { width: 20 },
     { width: 10 }
 ]);
 
