@@ -30,7 +30,7 @@ writer.setCellMap(['name', 'value']);
 writer.addRow(['pauky', 'ykk']);
 writer.addRow(['glowry', 'yrw', 'test']);
 
-// Add multiple row
+// Add multiple rows
 writer.addRows([['1', '2'],['a', 'b']]);
 
 // Finalize the spreadsheet. If you don't do this, the readstream will not end.
