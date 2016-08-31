@@ -1,5 +1,7 @@
 /**
- * Created by air on 16/8/31.
+ * Author: pauky
+ * Date: 2016/8/31
+ * Verson: 0.0.1
  */
 'use strict';
 
