@@ -13,7 +13,7 @@ $ npm install xlsx-writer-stream
 ```js
 var XLSXWriterStream = require('xlsx-wirter-stream');
 
-var writer = new XLSXWriter({
+var writer = new XLSXWriterStream({
     file: 'example.xlsx'
 });
 
