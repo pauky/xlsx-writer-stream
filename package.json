@@ -1,6 +1,6 @@
 {
   "name": "xlsx-writer-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A xlsx writer by stream in Node.js",
   "main": "index.js",
   "repository": {
